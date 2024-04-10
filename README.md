@@ -5,7 +5,7 @@ Intrusion Detection On windows Systems using the WMI library
 # Installation
 
 1. Clone the repository using
-	`gt clone https://github.com/InputOutputStream/intrusion_detection_wmi.git`
+	`git clone https://github.com/InputOutputStream/intrusion_detection_wmi.git`
 
 2. The Install the requirements using the following command
 
